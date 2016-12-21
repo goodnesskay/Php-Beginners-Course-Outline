@@ -1,0 +1,24 @@
+Week One 
+* BRUSH UP HTML AND CSS
+- learner must understand basic html and css syntax. looking at tags and
+  also look at the page source of websites to be able to read what has been written 
+
+* Introduction to PHP
+-One must know the basic details of PHP 
+
+* Environmet Setup
+- one nust know how to setup php environment(installation),how the local server works,what the PHP.INI file is and how the Apache works   
+
+* php syntax
+- one must know the basic php syntax and how the tag can be manipulated
+
+* Commenting, whitespace and wildcards
+- one must know what they are used for and the styles of commenting
+
+* Running PHP form command prompt(optional)
+
+* PHP variables
+- one must know the types of variables and how they are used together with the basic features of PHP
+
+* Php constants
+- one must work on php constants, the differences between constants and variables, some of php constants, how they are defined and how they are used.  
